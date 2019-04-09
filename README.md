@@ -1,2 +1,4 @@
 # Task1 Repository
-This is assignment task 1
+This is the first Git assignment 
+
+Task 1 - Simple HTML Code
